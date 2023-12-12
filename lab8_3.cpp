@@ -36,6 +36,5 @@ else{
     name = "Brook";
 }
 cout << "Your character = "<<name;
-
-
+return 0;
 }
